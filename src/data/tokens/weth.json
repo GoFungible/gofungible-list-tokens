@@ -1,0 +1,54 @@
+{
+  "name": "Wrapped Ether",
+  "symbol": "WETH",
+  "description": "WETH is the wrapped version of Ether (ETH) that conforms to the ERC-20 standard",
+  "logoUri": "https://cryptologos.cc/logos/ethereum-eth-logo.png",
+  "coingeckoId": "weth",
+  "networks": [
+    {
+      "chainId": 1,
+      "chainName": "Ethereum",
+      "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "symbol": "WETH",
+      "decimals": 18,
+      "explorerUrl": "https://etherscan.io/token/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "logoUri": "https://cryptologos.cc/logos/ethereum-eth-logo.png"
+    },
+    {
+      "chainId": 137,
+      "chainName": "Polygon",
+      "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+      "symbol": "WETH",
+      "decimals": 18,
+      "explorerUrl": "https://polygonscan.com/token/0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+      "logoUri": "https://cryptologos.cc/logos/ethereum-eth-logo.png"
+    },
+    {
+      "chainId": 42161,
+      "chainName": "Arbitrum",
+      "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+      "symbol": "WETH",
+      "decimals": 18,
+      "explorerUrl": "https://arbiscan.io/token/0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+      "logoUri": "https://cryptologos.cc/logos/ethereum-eth-logo.png"
+    },
+    {
+      "chainId": 10,
+      "chainName": "Optimism",
+      "address": "0x4200000000000000000000000000000000000006",
+      "symbol": "WETH",
+      "decimals": 18,
+      "explorerUrl": "https://optimistic.etherscan.io/token/0x4200000000000000000000000000000000000006",
+      "logoUri": "https://cryptologos.cc/logos/ethereum-eth-logo.png"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "address": "0x4200000000000000000000000000000000000006",
+      "symbol": "WETH",
+      "decimals": 18,
+      "explorerUrl": "https://basescan.org/token/0x4200000000000000000000000000000000000006",
+      "logoUri": "https://cryptologos.cc/logos/ethereum-eth-logo.png"
+    }
+  ]
+}

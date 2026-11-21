@@ -1,0 +1,54 @@
+{
+  "name": "Tether USD",
+  "symbol": "USDT",
+  "description": "USDT is a stablecoin pegged to the US Dollar",
+  "logoUri": "https://cryptologos.cc/logos/tether-usdt-logo.png",
+  "coingeckoId": "tether",
+  "networks": [
+    {
+      "chainId": 1,
+      "chainName": "Ethereum",
+      "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+      "symbol": "USDT",
+      "decimals": 6,
+      "explorerUrl": "https://etherscan.io/token/0xdAC17F958D2ee523a2206206994597C13D831ec7",
+      "logoUri": "https://cryptologos.cc/logos/tether-usdt-logo.png"
+    },
+    {
+      "chainId": 137,
+      "chainName": "Polygon",
+      "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+      "symbol": "USDT",
+      "decimals": 6,
+      "explorerUrl": "https://polygonscan.com/token/0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+      "logoUri": "https://cryptologos.cc/logos/tether-usdt-logo.png"
+    },
+    {
+      "chainId": 42161,
+      "chainName": "Arbitrum",
+      "address": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+      "symbol": "USDT",
+      "decimals": 6,
+      "explorerUrl": "https://arbiscan.io/token/0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+      "logoUri": "https://cryptologos.cc/logos/tether-usdt-logo.png"
+    },
+    {
+      "chainId": 10,
+      "chainName": "Optimism",
+      "address": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
+      "symbol": "USDT",
+      "decimals": 6,
+      "explorerUrl": "https://optimistic.etherscan.io/token/0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
+      "logoUri": "https://cryptologos.cc/logos/tether-usdt-logo.png"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "address": "0xfde4C96c8593536E31F229EA8f37b2ADa2699bb2",
+      "symbol": "USDT",
+      "decimals": 6,
+      "explorerUrl": "https://basescan.org/token/0xfde4C96c8593536E31F229EA8f37b2ADa2699bb2",
+      "logoUri": "https://cryptologos.cc/logos/tether-usdt-logo.png"
+    }
+  ]
+}
