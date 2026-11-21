@@ -15,7 +15,8 @@ This repo contains web dApp to manage my holdings of existed tokens in difefrent
 
 ## 4. Data
 * The application must have a folder containing json files.
-* Every json file in the folder represents a token (e.g. USDt or SOL) and contains all the chains and addresses where this token is deployed
+* Every json file in the folder represents a token (e.g. USDt or SOL)
+* Every json file contains all the chains and addresses where this token is deployed
 
 ## 5. UI
 * The UI must allow selecting a token and will show a card layout for the selected token
